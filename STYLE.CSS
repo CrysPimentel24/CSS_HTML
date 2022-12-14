@@ -1,0 +1,30 @@
+.DIV3 {
+    background-color: rgb(250, 250, 142);
+    color: blue;
+}
+
+.P_1 {
+    text-align: center;
+    }
+    
+.Sp_1{
+    color: red;
+}
+
+.P_2{
+    text-align: center;
+    background-color: silver;
+}
+
+.P_3{
+    text-align: right;
+}
+
+.Sp_2 {
+    color: red;
+}
+
+.P_4{
+    text-align: center;
+    background-color: silver;
+}
